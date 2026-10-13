@@ -1,0 +1,47 @@
+ENG.ABDELRAHMAN ALYAN
+Software Developer (Backend)
+Cairo, Egypt | [Email] | [Phone] | [LinkedIn] | [GitHub]
+
+SUMMARY
+Backend-focused software developer (Python) with full-stack and Flutter mobile experience.
+B.Sc. Computer Science graduate, AISPRINT Hackathon winner, ITI 9-month program trainee.
+
+EDUCATION
+B.Sc. Computer Science - Egypt University of Informatics (EUI), 2026
+ITI 9-Month Program - Open-Source Full-Stack Web Development with AI Integration (Trainee, 2026-present)
+
+EXPERIENCE
+Software Developer Intern - Mindshift (2026-present)
+- Sole developer building a career/entrepreneurship simulation platform (NestJS, Next.js).
+- Designed the system architecture and data model; built the Missions and Playthroughs modules.
+- Set up backend testing with Jest and frontend testing with Selenium.
+
+Backend Intern - Softworks (2026)
+- Built backend for "Ask Your Workspace", a RAG search feature for Knownly (AI learning workspace).
+- Retrieval with pgvector and grounded answers with citations, designed to avoid hallucination.
+
+Software Engineer Intern - EgabiFSI
+Flutter Mobile Developer Intern - WE Telecom Egypt
+
+PROJECTS
+MEMFLOW - Memory Forensics Automation Platform (Graduation Project)
+- Automated memory-dump analysis using Volatility3, Flask, Redis, PostgreSQL, Flutter desktop.
+- Chunked upload pipeline for very large dump files; fully Dockerized, deployed via Cloudflare Tunnel.
+- Accepted into IEEE Egypt "Made in Egypt" competition.
+
+Thimar - AI Fractional Agricultural Investment Platform | 1st Place, AISPRINT Hackathon (GDG EUI)
+- Team lead and sole backend developer (Flask, PostgreSQL, Groq LLaMA 3.3, Whisper, N8N).
+- Built AI-scored farm auctions and an AI crop and soil advisor.
+
+SKILLS
+Languages: Python, Java, Dart, SQL
+Backend: Flask, NestJS, REST APIs, PostgreSQL, Redis, pgvector
+Mobile: Flutter
+DevOps/Tools: Docker, Docker Compose, Git, Linux, Cloudflare Tunnel
+Testing: Jest, Selenium, pytest, JUnit, Postman
+AI: LLM integration, RAG
+
+LEADERSHIP
+Head of Software Engineering - IEEE EUI Student Branch
+Founder - MAD Club (Flutter mobile development community, EUI)
+
